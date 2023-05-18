@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @c04chd03
-- 👀 I’m interested in Cloud, AI, Big Data and Football!
+- 👀 I’m interested in Cloud, AI, Big Data and ML!
 - 🌱 I’m currently learning Machine Learning with Python and Hadoop, Kubernetes & Dockers.
 - 📫 How to reach me doevytom@protonmail.com
 
